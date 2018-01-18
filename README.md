@@ -3,3 +3,5 @@
 #Practicing git
 
 #New edits
+
+Changes made to readme by wkropat, 
