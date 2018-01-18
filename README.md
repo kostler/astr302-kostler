@@ -1,7 +1,5 @@
-#My first ASTR 302 git repository
+My first ASTR 302 git repository
 
-#Practicing git
+Repository for Practicing git
 
 #New edits
-
-Changes made to readme by wkropat, 
